@@ -1,2 +1,3 @@
-# Pacman_ReinforcementLearning
-Comp341 / Introduction to Artificial Intelligence / Fall 2016
+# Reinforcement Learning
+
+The implementation of reinforcement learning from Berkeley AI Projects: http://ai.berkeley.edu/reinforcement.html
